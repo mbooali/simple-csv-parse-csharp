@@ -7,8 +7,8 @@
     <ProjectGuid>{29FD1620-8FB2-42A0-9465-BFC2FB714596}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CanvasSISCSVImport</RootNamespace>
-    <AssemblyName>CanvasSISCSVImport</AssemblyName>
+    <RootNamespace>SISCSVImport</RootNamespace>
+    <AssemblyName>SISCSVImport</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
